@@ -1,0 +1,12 @@
+asyncio-mqtt==0.12.1
+attrs==22.1.0
+importlib-resources==5.9.0
+jsonrpcclient==4.0.2
+jsonrpcserver==5.0.9
+jsonschema==4.16.0
+OSlash==0.6.3
+paho-mqtt==1.6.1
+pkgutil_resolve_name==1.3.10
+pyrsistent==0.18.1
+typing_extensions==4.3.0
+zipp==3.8.1
